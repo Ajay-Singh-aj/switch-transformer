@@ -1,2 +1,2 @@
 # switch-transformer
-this repo is belongs to genAI project where we have done some innovation in switch transformer
+this repo is belongs to genAI project with some innovation in switch transformer
